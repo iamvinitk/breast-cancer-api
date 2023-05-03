@@ -5,10 +5,12 @@ imageio
 importlib-metadata
 itsdangerous
 Jinja2
+joblib
 lazy_loader
 MarkupSafe
 networkx
 numpy
+opencv-python
 packaging
 pandas
 Pillow
@@ -16,9 +18,12 @@ python-dateutil
 pytz
 PyWavelets
 scikit-image
+scikit-learn
 scipy
 six
+threadpoolctl
 tifffile
 tzdata
 Werkzeug
 zipp
+Gunicorn
